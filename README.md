@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kulamanipradhan
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently Backend
+- 🌱 I’m currently working Backend Developem
 - 💞️ I’m looking to collaborate on Devops,Python programming,java and backend things
 - 📫 How to reach me : You can reach me through my Linked profile https://www.linkedin.com/in/kulamani-pradhan/
 
