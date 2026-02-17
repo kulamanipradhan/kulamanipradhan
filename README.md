@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kulamani Pradhan 🛡️
 
-### **Software Engineer | SecOps & Cloud Security | Ethical Hacker by Passion**
+### **Security Analyst | SecOps & Cloud Security | Ethical Hacker by Passion**
 
 I am a security-focused Software Engineer who bridges the gap between **Offensive (Red Team)** curiosity and **Defensive (Blue Team)** excellence. By day, I build and secure large-scale systems; by night, I explore ethical hacking to stay ahead of modern threats.
 
