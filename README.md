@@ -1,31 +1,45 @@
-# Kulamani Pradhan
+# 👋 Hi, I'm Kulamani Pradhan 🛡️
 
-👋 Hi, I'm Kulamani Pradhan, a passionate Software Engineer with a strong interest in the world of technology and software development. I enjoy creating efficient and elegant solutions to complex problems, and I'm always eager to learn and explore new technologies.
+### **Software Engineer | SecOps & Cloud Security | Ethical Hacker by Passion**
 
-## My Interests
+I am a security-focused Software Engineer who bridges the gap between **Offensive (Red Team)** curiosity and **Defensive (Blue Team)** excellence. By day, I build and secure large-scale systems; by night, I explore ethical hacking to stay ahead of modern threats.
 
-👀 I have a deep passion for Software Engineering and have dedicated my career to this field. I believe that software has the power to transform industries and improve people's lives. My interests span a wide range of areas within the tech world, including:
+---
 
-- **Backend Development**: I specialize in building the server-side logic and databases that power web and mobile applications.
+## 🚀 Professional Focus
+Currently, I am deep in the world of **Cloud Security** and **SecOps**, focusing on:
+* **Google Chronicle:** Scaling security telemetry and threat detection at planet-scale.
+* **SIEM & Log Analysis:** Expert-level data interrogation using **Splunk** and **Netforest**.
+* **Defensive Engineering:** Building robust architectures that are "secure by design."
 
-## My Current Focus
+## 🛠️ Technical Toolbox
 
-🌱 I'm currently working as a Backend Developer, where I'm actively involved in creating and maintaining the server-side components of various software systems. I'm always eager to learn and adapt to the ever-evolving tech landscape, making sure my skills stay up to date.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Security & SIEM** | Google Chronicle, Splunk, Netforest, SecOps, Ethical Hacking |
+| **Backend & Logic** | Java, Python, Bash Scripting |
+| **Frontend** | React.js, JavaScript |
+| **Infrastructure** | Cloud Security, CI/CD, Linux Hardening |
 
-## Collaboration
+## 🧪 The "Purple Team" Edge
+I believe the best defense is informed by an understanding of the offense.
+* **Scripting for Security:** I use **Python** and **Bash** to automate repetitive security tasks, parse complex logs, and build custom security tooling.
+* **Full-Stack Security:** My experience with **React**, **Java**, and **Python** allows me to secure applications from the UI down to the database level.
+* **Threat Hunting:** Leveraging my passion for ethical hacking to proactively find and fix vulnerabilities before they are exploited.
 
-💞️ I'm open to collaborating on various tech-related projects, especially in the following areas:
+## 🌱 Current Goals
+- ⚡ Refining automated detection and response workflows.
+- 🏗️ Building secure-by-default microservices.
+- 🔒 Deepening my expertise in Cloud Native Security.
 
-- **DevOps**: I'm interested in the DevOps culture, which includes continuous integration, continuous deployment, and infrastructure as code.
+---
 
-- **Python Programming**: Python is a versatile and powerful programming language. I'm keen to collaborate on Python-related projects and share knowledge in this domain.
+## 🤝 Let's Collaborate
+I'm always excited to connect with fellow tech enthusiasts, security researchers, and developers.
+- 💬 Ask me about: **Chronicle, SIEM, Python automation, or React.**
+- 📫 Reach me via LinkedIn: [kulamani-pradhan](https://www.linkedin.com/in/kulamani-pradhan/)
+- ⚡ Fun Fact: I spend as much time reading logs as I do writing code.
 
-- **Java**: If you're working on Java-based projects, I'm more than willing to contribute my expertise.
+---
 
-- **Backend Development**: Whether it's designing RESTful APIs, working with databases, or optimizing server performance, I'm here to help.
-
-## Get in Touch
-
-📫 You can reach out to me through my LinkedIn profile [here](https://www.linkedin.com/in/kulamani-pradhan/). Feel free to connect, discuss tech, or explore potential collaboration opportunities. I'm always excited to meet like-minded individuals in the tech community.
-
-Thank you for visiting my GitHub profile! I look forward to connecting and collaborating with fellow tech enthusiasts.
+> "To build a better shield, you must first understand the sword."
